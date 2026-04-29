@@ -1,4 +1,5 @@
 plant_dataset/
 PlantVillage/
 __pycache__/
+.env
 *.ipynb_checkpoints
